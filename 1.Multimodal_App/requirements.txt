@@ -1,0 +1,17 @@
+numpy==1.24.4
+Pillow==10.3.0
+Requests==2.31.0
+torchvision
+accelerate==0.30.0
+gradio
+librosa
+gtts
+langdetect
+sentencepiece
+accelerate
+bitsandbytes
+torch
+transformers==4.43.1
+einops
+sentencepiece
+git+https://github.com/huggingface/parler-tts.git
